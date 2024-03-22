@@ -1,0 +1,7 @@
+export const SHOW_FORM = 'SHOW_FORM';
+
+export const CLOSE_FORM = 'CLOSE_FORM'
+
+export const FETCH_DATA_REQUEST = "FETCH_DATA_REQUEST";
+export const FETCH_DATA_SUCCESS = "FETCH_DATA_SUCCESS";
+export const FETCH_DATA_FAILURE = "FETCH_DATA_FAILURE";

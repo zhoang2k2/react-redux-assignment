@@ -1,0 +1,25 @@
+{
+  "accounts": [
+    {
+      "id": "1",
+      "email": "a title",
+      "username": "anguyen13",
+      "fullname": "nguyen van a",
+      "position": "dev"
+    },
+    {
+      "id": "2",
+      "email": "another title",
+      "username": "bnguyen14",
+      "fullname": "nguyen van b",
+      "position": "qa"
+    }
+  ],
+  "head-table": [
+    { "id": "1", "name": "id" },
+    { "id": "2", "name": "email" },
+    { "id": "3", "name": "username" },
+    { "id": "4", "name": "fullname" },
+    { "id": "5", "name": "position" }
+  ]
+}
